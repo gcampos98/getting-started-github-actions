@@ -37,3 +37,4 @@ jobs:
           ls -l
           git --version
           mvn --version
+          cat /etc/os-release
